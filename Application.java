@@ -41,4 +41,7 @@ class Main {
 
 #new changes 
 System.out.println("Git Advanced Commands");
+
+#Working with the merge conflicts by competing the changes to a file in the remote repository with two branches
+
 }
