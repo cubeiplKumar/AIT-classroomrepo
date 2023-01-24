@@ -38,4 +38,7 @@ class Main {
       destFile.write(array);
       System.out.println("The input.txt file is copied to newFile.");
 
+
+#new changes 
+System.out.println("Git Advanced Commands");
 }
