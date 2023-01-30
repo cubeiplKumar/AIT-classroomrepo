@@ -1,3 +1,8 @@
 DevOps Workshop on new trends 2023
 
 Workshop on March 20th.
+webhook job demo
+when developer make any changes in the github repos
+jenkins triggered an event and pull the latest changes from
+github into jenkins server.
+
